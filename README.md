@@ -19,20 +19,10 @@
 
 <!-- เปลี่ยน your-profile เป็นลิงก์ของตัวเอง -->
 <p>
-  <a href="https://discord.com/users/your-id"><img src="https://cdn.simpleicons.org/discord/5865F2" width="36" height="36" alt="Discord" /></a>
-  <a href="https://facebook.com/your-profile"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="36" height="36" alt="Facebook" /></a>
+  <a href="[https://www.facebook.com/surachart.limrattanaphun.5/]"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="36" height="36" alt="Facebook" /></a>
   <a href="https://github.com/Surachart01"><img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" /></a>
-  <a href="https://instagram.com/your-profile"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="36" height="36" alt="Instagram" /></a>
-  <a href="https://youtube.com/@your-channel"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="36" height="36" alt="YouTube" /></a>
-  <a href="https://twitch.tv/your-channel"><img src="https://cdn.simpleicons.org/twitch/9146FF" width="36" height="36" alt="Twitch" /></a>
+  <a href="https://instagram.com/tle_src"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="36" height="36" alt="Instagram" /></a>
+
 </p>
-
-## Badges
-
-#### My GitHub Stats
-
-[![Surachart01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surachart01&show_icons=true&count_private=true)](https://github.com/Surachart01)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surachart01&layout=compact)](https://github.com/Surachart01)
 
 -->
