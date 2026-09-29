@@ -23,7 +23,6 @@
   <a href="https://facebook.com/your-profile"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="36" height="36" alt="Facebook" /></a>
   <a href="https://github.com/Surachart01"><img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" /></a>
   <a href="https://instagram.com/your-profile"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="36" height="36" alt="Instagram" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" /></a>
   <a href="https://youtube.com/@your-channel"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="36" height="36" alt="YouTube" /></a>
   <a href="https://twitch.tv/your-channel"><img src="https://cdn.simpleicons.org/twitch/9146FF" width="36" height="36" alt="Twitch" /></a>
 </p>
